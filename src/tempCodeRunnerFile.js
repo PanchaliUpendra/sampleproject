@@ -1,0 +1,1 @@
+<Bodypart key ={Data[0].id} col={Data[0].coverImg}/>
